@@ -1,0 +1,3 @@
+Create a database in the phpmyadmin with any name. Then copy & paste the code from table.sql file into the SQL menu in
+phpmyadmin. Now edit the config.php file & give your information like username , password to connect with database. That's
+it! Now enjoy!
